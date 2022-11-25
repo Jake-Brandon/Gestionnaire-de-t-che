@@ -1,2 +1,2 @@
-# Gestionnaire-de-t-che
+# Gestionnaire-de-tache
 Gestionnaire de tâche
